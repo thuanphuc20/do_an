@@ -1,0 +1,31 @@
+<RCC>
+  <qresource prefix="image">
+    <file>venv/rec/icons/401309_qt_icon.png</file>
+    <file>venv/rec/icons/account-logout-64.ico</file>
+    <file>venv/rec/icons/activity-feed-32.ico</file>
+    <file>venv/rec/icons/activity-feed-48.ico</file>
+    <file>venv/rec/icons/close-window-64.ico</file>
+    <file>venv/rec/icons/dashboard-5-32.ico</file>
+    <file>venv/rec/icons/dashboard-5-48.ico</file>
+    <file>venv/rec/icons/group-32.ico</file>
+    <file>venv/rec/icons/group-48.ico</file>
+    <file>venv/rec/icons/home-4-32.ico</file>
+    <file>venv/rec/icons/home-4-48.ico</file>
+    <file>venv/rec/icons/Logo.png</file>
+    <file>venv/rec/icons/loupe.png</file>
+    <file>venv/rec/icons/menu-4-32.ico</file>
+    <file>venv/rec/icons/padlock.png</file>
+    <file>venv/rec/icons/product-32.ico</file>
+    <file>venv/rec/icons/product-48.ico</file>
+    <file>venv/rec/icons/search-13-48.ico</file>
+    <file>venv/rec/icons/user (1).png</file>
+    <file>venv/rec/icons/user.png</file>
+    <file>venv/rec/icons/user-48.ico</file>
+    <file>venv/rec/icons/401309_qt_icon.png</file>
+    <file>venv/rec/icons/loupe.png</file>
+    <file>venv/rec/icons/padlock.png</file>
+    <file>venv/rec/icons/user (1).png</file>
+    <file>venv/rec/icons/user.png</file>
+    <file>venv/rec/images/img_xe.jpg</file>
+  </qresource>
+</RCC>
